@@ -1,2 +1,2 @@
 # Resume
-Personal resume
+Personal resume - Currículo pessoal
